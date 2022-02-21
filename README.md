@@ -18,3 +18,5 @@ Unlike many existing platforms, Opera House isn't a fork from any other existing
   * [Audit & Trust Score](nfts-collections/audit-and-trust-score.md)
 * [NFT Details Page](nft-details-page.md)
 * [Create Your NFT Store](create-your-nft-store.md)
+
+It likes the Dark so grab the flashlight
