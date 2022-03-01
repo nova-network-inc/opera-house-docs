@@ -12,3 +12,7 @@
 * [NFT Details Page](nft-details-page.md)
 * [Create Your NFT Store](create-your-nft-store.md)
 * [Sponsored Content](sponsored-content.md)
+
+## Useful Links
+
+* [Additional Documentation](useful-links/additional-documentation.md)
