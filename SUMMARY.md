@@ -24,4 +24,4 @@
 * [Discord Server](https://discord.gg/mHtRYmd)
 * [Telegram Channel](https://t.me/NovaChannelOfficial)
 * [Reddit](https://www.reddit.com/r/NovaFinance)
-* [Github](https://github.com/nova-network-inc/nova-token)
+* [Github](https://github.com/nova-network-inc/)
