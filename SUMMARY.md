@@ -16,3 +16,11 @@
 ## Useful Links
 
 * [Additional Documentation](useful-links/additional-documentation.md)
+
+***
+
+* [Twitter](https://twitter.com/FTMOperaHouse)
+* [Discord Server](https://discord.gg/mHtRYmd)
+* [Telegram Channel](https://t.me/NovaChannelOfficial)
+* [Reddit](https://www.reddit.com/r/NovaFinance)
+* [Github](https://github.com/nova-network-inc/nova-token)
