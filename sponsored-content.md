@@ -18,6 +18,6 @@ Gain exposure and enhance your sales by having your collection featured on Opera
 **Package:**
 
 * **Duration:** 7 days (1 week) or 30 days (1 month)
-* **Price:** 40 **** FTM/week or 150 FTM/month
+* **Price:** 75 **** FTM/week or 250 FTM/month
 
 Special packages can be negotiated directly with the team.
