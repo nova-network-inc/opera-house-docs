@@ -9,9 +9,10 @@ Unlike many existing platforms, Opera House isn't a fork from any other existing
 ### Table of Contents
 
 * [Users' FAQ](users-faq.md)
-* [Costs  & Fees](costs-and-fees.md)
+* [Costs & Fees](costs-and-fees.md)
 * [Creating an NFT](creating-an-nft.md)
 * [My Profile Page](my-profile-page.md)
+* [Selling & Auctioning NFTs](selling-and-auctioning-nfts.md)
 * [Marketplace & Buying NFTs](marketplace-and-buying-nfts.md)
 * [NFTs Collections](nfts-collections/)
   * [Submit a Collection](nfts-collections/submit-a-collection.md)
@@ -19,4 +20,3 @@ Unlike many existing platforms, Opera House isn't a fork from any other existing
 * [NFT Details Page](nft-details-page.md)
 * [Create Your NFT Store](create-your-nft-store.md)
 
-It likes the Dark so grab the flashlight

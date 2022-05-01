@@ -6,6 +6,7 @@
 * [Creating an NFT](creating-an-nft.md)
 * [My Profile Page](my-profile-page.md)
 * [Marketplace & Buying NFTs](marketplace-and-buying-nfts.md)
+* [Selling & Auctioning NFTs ](selling-and-auctioning-nfts.md)
 * [NFTs Collections](nfts-collections/README.md)
   * [Submit a Collection](nfts-collections/submit-a-collection.md)
   * [Audit & Trust Score](nfts-collections/audit-and-trust-score.md)
